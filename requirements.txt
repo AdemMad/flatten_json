@@ -1,0 +1,4 @@
+fast_to_sql==2.3.0
+pandas==1.2.4
+flat_table==1.1.1
+pyodbc==4.0.0
